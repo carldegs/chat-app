@@ -1,0 +1,18 @@
+@import "./customBootstrap.scss";
+
+.App {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  background-color: #333333;
+  justify-content: center;
+  align-items: center;
+
+  .appContent {
+    width: 363px;
+    height: 791px;
+    background-color: white;
+    border-radius: 12px;
+    padding: 16px 24px;
+  }
+}

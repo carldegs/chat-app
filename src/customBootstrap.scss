@@ -1,0 +1,7 @@
+/* import only the necessary Bootstrap files */
+@import '~bootstrap/scss/functions';
+@import '~bootstrap/scss/variables';
+
+
+/* Importing bootstrap scss should be last */
+@import '~bootstrap/scss/bootstrap';
